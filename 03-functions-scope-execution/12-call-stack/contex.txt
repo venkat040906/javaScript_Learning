@@ -1,0 +1,14 @@
+the call stack 
+
+stack of functions to be executed
+manages execution contexts
+stacks are LIFO last in first out
+
+suppose below line are stored ins tack/bucket
+
+third()
+second()
+first()
+global EC
+
+Call Stack above
